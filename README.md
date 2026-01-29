@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abdulla Al Shakaet</h1>
-<h3 align="center">A passionate Mern Stack Developer from Bangladesh,I describe myself as a passionate
+<h1 align="center">Hi 👋, I'm MD Najmul Hasan</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh,I describe myself as a passionate
 developer who loves coding, Open Source, and the web platform, passion for responsive website design. Would like to
 build a successful career in the field of web development.
 </h3>
@@ -25,7 +25,7 @@ build a successful career in the field of web development.
 - 💬 *Ask me about: **MERN Stack*  
 - 📫 *How to reach me: **abdshakaet@gmail.com*
 - ⚡ *Fun Fact: **I’m funny and love learning new things!*
-- 📫 *Location: **Chittagong,Banglaadesh* 
+- 📫 *Location: **Dhaka,Banglaadesh* 
 
 ---
 
